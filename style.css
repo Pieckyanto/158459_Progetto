@@ -1,0 +1,59 @@
+* {
+    font-family: Helvetica !important;
+}
+
+#titolo {
+    font-size: 65px !important;
+}
+
+#nome {
+    font-size: 30px;
+}
+
+#matricola {
+    font-size: 20px;
+}
+
+#sub {
+    font-size: 35px;
+}
+
+h1, h2 {
+	font-weight: bold !important;
+}
+
+.cintura {
+    color:seagreen;
+}
+
+.nocintura {
+    color:crimson;
+}
+
+.morte {
+    color:darkred;
+}
+
+.perdita {
+    color:red;
+}
+
+.illesi {
+    color:limegreen;
+}
+
+.uomini {
+    color:royalblue;
+}
+
+.donne {
+    color:palevioletred;
+}
+
+#link {
+    font-size: 20px;
+}
+
+#K {
+    color:deepskyblue;
+}
